@@ -1,3 +1,5 @@
 Ini adalah testing belajar github
 
 Nama saya Ari Erginta Ginting
+
+test jenkins trigger
